@@ -1,1 +1,2 @@
 # Kaichou
+square display
